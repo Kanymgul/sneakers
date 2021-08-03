@@ -1,0 +1,60 @@
+.slider {
+    width: 100%;
+    height: 300px;
+    margin: 40px 0;
+    background: #F4EFE9;
+border-radius: 20px;
+}
+.arrow {
+    position: absolute;
+    right: -30px;
+    top: 120px;
+}
+
+.slider__logo {
+    width: 99px;
+    height: 40px;
+    margin-top: 16px;
+    margin-left: 20px;
+}
+
+.slider__text {
+    max-width: 240px;
+    width: 100%;
+    height: 102px;
+    font-style: normal;
+font-weight: bold;
+font-size: 38px;
+line-height: 46px;
+margin-top: 32px;
+margin-left: 61px;
+margin-bottom: 10px;
+color: #8BB43C;
+
+}
+
+.slider__text > span {
+    color: black;
+}
+.slider__btn {
+    width: 177.46px;
+height: 47.09px;
+border: none;
+background: #A5D364;
+border-radius: 110px;
+color: white;
+font-weight: bold;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+margin-left: 60px;
+}
+.slider__content {
+    display: flex;
+    justify-content: space-between;
+}
+.slider__right > img {
+    max-width: 641px;
+ width: 100%;
+ height: 300px;
+}

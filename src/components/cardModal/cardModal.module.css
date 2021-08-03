@@ -1,0 +1,28 @@
+.container {
+    width: 325px;
+    height: 119px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.card__desc {
+    font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+color: #000000;
+margin-top: 30px;
+margin-bottom: 8px;
+}
+.card__price {
+    font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+color: #000000;
+
+}
+.img2 {
+    width: 15px;
+height: 15px;
+}

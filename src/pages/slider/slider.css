@@ -1,0 +1,7 @@
+.slick-prev {
+    display: none !important;
+}
+
+.slick-slide div {
+    outline: none !important;
+}
